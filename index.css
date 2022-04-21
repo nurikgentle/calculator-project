@@ -1,0 +1,23 @@
+body {
+    font-size: 50px;
+}
+
+#add {
+    font-size: 50px;
+}
+#substract {
+    font-size: 50px;
+}   
+#divide {
+    font-size: 50px;
+}
+#multiply {
+    font-size: 50px;
+}
+#num1-el {
+    margin-left: 315px;
+}
+#sum-el {
+    margin-left: 300px;
+    margin-top: 20px;
+}
